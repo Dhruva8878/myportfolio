@@ -6,7 +6,7 @@
   justify-content: space-between;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .header {
     height: 6em;
   }
@@ -17,7 +17,7 @@ img {
   margin-right: 4px;
 }
 .myv {
-  font-size: 50px;
+  font-size: 70px;
 }
 .mylast {
   font-size: 35px;

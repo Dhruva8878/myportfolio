@@ -5,7 +5,11 @@
   background-color: transparent;
 }
 
-@media (max-width: 900px) {
+.scroll-top:hover {
+  color: teal;
+}
+
+@media (max-width: 768px) {
   .scroll-top {
     display: none;
   }
